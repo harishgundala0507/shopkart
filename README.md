@@ -1,4 +1,4 @@
-markdown
+
 # 🛒 ShopKart — MERN E-Commerce Application
 
 A full-stack e-commerce application built across 6 engineering labs. Features customer authentication, product catalog, wishlist, shopping cart, and checkout with Razorpay payment integration.
@@ -170,7 +170,6 @@ This project uses Razorpay Test Mode only — no real payments.
 📄 License
 MIT — free to use for learning purposes.
 
-text
 
 **Save in VS Code with Ctrl + S.**
 
